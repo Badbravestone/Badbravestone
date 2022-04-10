@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Badbravestone (actually my real name is Ranjeet)
 - 👀 I’m interested in Machine learninig and data science
-- 🌱 I’m currently learning Python data structures and algorithm
+- 🌱 I’m currently learning Data structures and algorithm
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me ...
 
